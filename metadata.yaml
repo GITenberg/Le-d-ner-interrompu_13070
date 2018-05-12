@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '4792'
     url: http://www.gutenberg.org/2009/agents/4792
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13070#Le-d-ner-interrompu
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
