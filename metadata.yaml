@@ -1,0 +1,27 @@
+_repo: Le-d-ner-interrompu_13070
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Doin, Ernest
+    birthdate: 1809
+    deathdate: 1891
+    gutenberg_agent_id: '4792'
+    url: http://www.gutenberg.org/2009/agents/4792
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13070'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French-Canadian drama'
+title: Le dîner interrompu
+url: http://www.gutenberg.org/ebooks/13070
